@@ -1,0 +1,40 @@
+.container {
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.wrapper {
+    padding: 10px 15px;
+}
+
+.button-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.button-wrapper button {
+    margin-top: 10px;
+}
+.input {
+    width: 250px;
+    height: 20px;
+}
+.submit-btn {
+    width: 150px;
+    height: 20px;
+    background-color: green;
+}
+.button-item {
+    display: flex;
+    align-items: center;
+}
+.icon {
+    width: 20px; 
+    height: 20px; 
+    margin-right: 10px; 
+}
+.btn {
+    margin-bottom: 20px;
+}  
