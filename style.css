@@ -107,6 +107,8 @@ h2 {
 
 .box {
     background: #FBFBFB;
+    display: flex;
+    flex-direction: column;
 }
 
 h3 {
@@ -121,7 +123,7 @@ h3 {
 }
 
 .image {
-    width: 268px;
+    height: 198px;
 }
 
 .text-center {
@@ -157,7 +159,7 @@ h3 {
 
 .text-normal {
     color: #727272;
-    font-family: "Cera Pro";
+    font-family: 'Cera Pro Regular', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
